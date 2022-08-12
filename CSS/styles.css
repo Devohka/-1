@@ -1,0 +1,34 @@
+body {
+    font-family: roboto;
+}
+
+footer {
+    color: #FFFFFF;
+    background-color: #2F303A;
+}
+
+h1 {
+    margin: 100px 50px 10px 50px;
+    color: white;
+}
+
+header {
+    background-color: #2F303A;
+}
+
+ul {
+    background-color: white;
+}
+
+
+button {
+    margin: 10px 300px 100px 300px;
+    color: white;
+    background-color: blue;
+    width: 152px;
+    height: 30px;
+}
+
+.title {
+    background-color: #F5F4FA;
+}
